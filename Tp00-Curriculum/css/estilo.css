@@ -25,4 +25,23 @@ aside{
     width: 40%;
     background-color: blue;
     padding: 20px;
+
+    .datosPersonales{
+        width: 100%;
+        height: 200px;
+        background-color: yellow;
+        
+    }
+
+    .socialMedia{
+        height: 150px;
+        width: 100%;
+        background-color: aqua;
+    }
+    .educacion{
+        width: 100%;
+        height: 200px;
+        background-color: green;
+    }
+
 }
